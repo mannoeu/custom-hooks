@@ -1,6 +1,7 @@
 # `useDebug` 🐛
 
-React hook that returns a function that logs arguments in a different production environment.
+React hook that returns a function that logs arguments. You can control log visibility/hiding by sending the active parameter (true or false).
+Don't worry, when `process.env.NODE_ENV === "production"` will not log.
 
 ## Usage
 
