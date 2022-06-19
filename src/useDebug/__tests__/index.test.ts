@@ -15,7 +15,7 @@ describe("useDebug tests", () => {
     unmount();
   });
 
-  it("should not print to console for not receiving 'false' with parameter", () => {
+  it("should not print to console for receiving 'false' with parameter", () => {
     jest.spyOn(global.console, "log").mockImplementation();
     const { result, unmount } = renderHook(() => useDebug(false));
 
