@@ -38,3 +38,9 @@ const Demo = ({ url }) => {
 ```ts
 useDebug(active: boolean);
 ```
+
+## Props
+
+| Prop name | Default value | Description                                                                | Example values                |
+| --------- | ------------- | -------------------------------------------------------------------------- | ----------------------------- |
+| active    | `true`        | Defines if the logs should be shown or not in the development environment. | useDebug(false) or useDebug() |
