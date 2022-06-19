@@ -41,6 +41,6 @@ useDebug(active: boolean);
 
 ## Props
 
-| Prop name | Default value | Description                                                                | Example values                |
-| --------- | ------------- | -------------------------------------------------------------------------- | ----------------------------- |
-| active    | `true`        | Defines if the logs should be shown or not in the development environment. | useDebug(false) or useDebug() |
+| Prop name | Default value | Description                                                                | Example values                                                                      |
+| --------- | ------------- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| active    | `true`        | Defines if the logs should be shown or not in the development environment. | <ul><li>Enable logs: `useDebug()`</li><li>Disable logs: `useDebug(false)`</li></ul> |
