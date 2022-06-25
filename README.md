@@ -22,6 +22,7 @@
 </div>
 
 - [`useDebug`](./docs/useDebug.md) &mdash; To debug using logs and be able to centrally control the display/hide of logs in development and make sure you don't forget an active log in production.
+- [`useLocalStorage`](./docs/useLocalStorage.md) &mdash; To persist and sync values ​​with browser storage.
 
 <br />
 <br />
