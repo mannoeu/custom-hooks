@@ -1,6 +1,6 @@
 # `useLocalStorage` 🐛
 
-React Hook for state storage with persistence via browser localStorage.
+React Hook for state storage with persistence using browser localStorage.
 
 ## Usage
 
