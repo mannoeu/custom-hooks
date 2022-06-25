@@ -1,6 +1,6 @@
 {
   "name": "@mannoeu/custom-hooks",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Custom React Hooks bundled in a utility package. Written in TypeScript, documented, tested and maintained. Disclaimer: At least React version >= 16 is required (with hooks support)",
   "author": "Emmanuel Messias da Silva Costa",
   "license": "MIT",
